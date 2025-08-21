@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alvarogomes2305/alvarogomes2305/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ###
